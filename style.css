@@ -1,0 +1,29 @@
+div{
+    font-size: larger;
+}
+h1{
+    color: rgb(245, 36, 234); background-color: rgb(250, 217, 173); font-style: italic;font-synthesis-small-caps: inherit;
+}
+h2{
+    font-size: larger;
+    background-color: rgb(250, 217, 173); font-family: 'Times New Roman', Times, serif; font-style: italic;
+}
+body{
+    background-color: rgb(226, 142, 142);
+}
+b{
+    color: rgb(22, 22, 22); font-size: large;
+} 
+
+li{
+    color: rgb(255, 255, 255); font-style: italic;
+}
+b{
+    color: blue;
+} 
+nav{
+    background-size: 0%;
+}
+div{
+    background-color: rgb(97, 183, 209);
+}
